@@ -8,6 +8,7 @@ In this version, I have made two broad changes. First, Elon Musk's net worth sur
 
 _[A note on the role of citations in this project](https://github.com/MKorostoff/1-pixel-wealth/issues/40#issuecomment-648932718)_
 
+- [Lifetime earnings in the US](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4534330/)
 - [Wealth of richest people](https://www.forbes.com/forbes-400/#15b032877e2f)
 - [Perceptions of inequality](https://www.ncbi.nlm.nih.gov/pubmed/26162108)
 - [Salaries of various professions](https://money.usnews.com/careers)
