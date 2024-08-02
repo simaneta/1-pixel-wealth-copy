@@ -348,14 +348,9 @@ h1 {
   padding: 5px;
   min-width: 140px;
 }
-.lifetime_male .square {
+.lifetime .square {
   width: 49.29px;
   height: 49.29px;
-  background-color: blue;
-}
-.lifetime_female .square {
-  width: 37.82px;
-  height: 37.82px;
   background-color: blue;
 }
 .healthcare .square {
