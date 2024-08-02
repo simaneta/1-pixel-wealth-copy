@@ -78,7 +78,7 @@ function update_wealth_counter() {
   if (musk_viewable()) {
     if (musk_counter_viewable()) {
       let wealth = (window.scrollX - musk.offsetLeft + 175) * 500000;
-      musk_counter.innerHTML = (wealth < 185000000000) ? money.format(wealth) : "$185,000,000,000";
+      musk_counter.innerHTML = (wealth < 240700000000) ? money.format(wealth) : "$240,700,000,000";
     }
     else {
       musk_counter.innerHTML = '';
