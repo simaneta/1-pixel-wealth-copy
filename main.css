@@ -301,8 +301,8 @@ h1 {
     border-bottom: 3px dotted #007fb7;
   }
 }
-.bezos .wealth {
-  width: 370000px;
+.musk .wealth {
+  width: 481400px;
   height: 500px;
   background-color: orange;
 }
@@ -330,7 +330,7 @@ h1 {
 .key > span {
   display: inline-block;
 }
-.bezos .key > span {
+.musk .key > span {
   background-color: orange;
 }
 .four-hundred .key > span {
