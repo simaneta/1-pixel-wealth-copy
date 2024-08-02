@@ -1,6 +1,6 @@
 # About
 
-Source code for https://mkorostoff.github.io/1-pixel-wealth/
+Source code for [https://dbkrupp.github.io/1-pixel-wealth/](https://dbkrupp.github.io/1-pixel-wealth/)
 
 # Translations and Adaptations
 
