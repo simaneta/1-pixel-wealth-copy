@@ -301,8 +301,8 @@ h1 {
     border-bottom: 3px dotted #007fb7;
   }
 }
-.musk .wealth {
-  width: 481400px;
+.bezos .wealth {
+  width: 370000px;
   height: 500px;
   background-color: orange;
 }
@@ -330,7 +330,7 @@ h1 {
 .key > span {
   display: inline-block;
 }
-.musk .key > span {
+.bezos .key > span {
   background-color: orange;
 }
 .four-hundred .key > span {
@@ -349,18 +349,18 @@ h1 {
   min-width: 140px;
 }
 .lifetime .square {
-  width: 43.93px;
-  height: 43.93px;
+  width: 41.23px;
+  height: 41.23px;
   background-color: blue;
 }
 .healthcare .square {
-  width: 4.9px;
-  height: 4.9px;
+  width: 4.96px;
+  height: 4.96px;
   background-color: blue;
 }
 .amazon-year .square {
-  width: 5.76px;
-  height: 5.76px;
+  width: 5.4px;
+  height: 5.4px;
   background-color: blue;
 }
 .year-veteran .square {
@@ -414,16 +414,16 @@ h1 {
 }
 .beyonce .square {
   height: 350px;
-  width: 2171px;
+  width: 1142px;
   background-color: #406994;
 }
-.altman .square {
-  width: 1000px;
-  height: 1000px;
+.goldman .square {
+  width: 223px;
+  height: 223px;
   background-color: #64A8F0;
 }
 .tim-cook .square {
-  width: 6286px;
+  width: 1785px;
   height: 350px;
   background-color: #71889e;
 }
