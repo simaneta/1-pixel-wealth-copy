@@ -1,4 +1,4 @@
-## One pixel wealth
+## One Pixel Wealth Project
 ### 💵 Just how wealthy are the wealthiest people in the world?
 [You can see for yourself](https://simaneta.github.io/1-pixel-wealth-copy/)
 
