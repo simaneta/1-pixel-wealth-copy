@@ -1,11 +1,12 @@
-# About
+## One pixel wealth
+### 💵 Just how wealthy are the wealthiest people in the world?
+[You can see for yourself](https://simaneta.github.io/1-pixel-wealth-copy/)
 
-Source code for [https://dbkrupp.github.io/1-pixel-wealth/](https://dbkrupp.github.io/1-pixel-wealth/). This is a clone of [https://github.com/MKorostoff/1-pixel-wealth](https://github.com/MKorostoff/1-pixel-wealth), originally created by [Matt Korostoff](https://github.com/MKorostoff); all credit should be directed there. 
+### About
+This is a clone of [a repository](https://github.com/MKorostoff/1-pixel-wealth), originally created by [Matt Korostoff](https://github.com/MKorostoff).
+**All credit should be directed there.**
 
-In this version, I have made two broad changes. First, Elon Musk's net worth surpassed that of Jeff Bezos [in January of 2021](https://www.bbc.com/news/technology-55578403), making Musk the wealthiest person in the world. Consequently, I have replaced Bezos with Musk in this visualization. I have also updated the dollar amounts to the most recent values wherever possible. 
-
-# Select Sources
-
+### Select Sources
 _[A note on the role of citations in this project](https://github.com/MKorostoff/1-pixel-wealth/issues/40#issuecomment-648932718)_
 
 - [Lifetime earnings in the US](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4534330/)
@@ -21,10 +22,3 @@ _[A note on the role of citations in this project](https://github.com/MKorostoff
 - American poverty [[1](https://www.census.gov/content/dam/Census/library/publications/2019/demo/p60-266.pdf)] [[2](https://prospect.org/power/much-money-take-eliminate-poverty-america/)] [[3](https://poverty.ucdavis.edu/sites/main/files/file-attachments/stevens_1994aerpp.pdf)]
 - [Cost of coronavirus testing](https://www.cnbc.com/2020/04/21/coronavirus-tests-rockefeller-plan-would-screen-millions-for-covid-19.html)
 - [Efficacy of cash transfers](https://www.givedirectly.org/research-on-cash-transfers/)
-
-# About the Author
-One pixel wealth was created by [Matt Korostoff](https://mkorostoff.github.io/)
-
-# Against Malaria
-
-Please consider making a donation to the [Against Malaria Foundation](https://www.againstmalaria.com/). They are not affiliated with this project in any way, I just really like them.
